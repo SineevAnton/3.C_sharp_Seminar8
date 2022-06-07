@@ -34,6 +34,8 @@ void ShowArray(int[,] arr)
     }
 }
 
+// Method to find minimal sum of row's elements in a two-dimentional array and number of this row.
+// Returns array with row number and sum value.
 int[] FindRowWithMinimalSum(int[,] arr)
 {
     int[] result = new int[2]{0, int.MaxValue};
