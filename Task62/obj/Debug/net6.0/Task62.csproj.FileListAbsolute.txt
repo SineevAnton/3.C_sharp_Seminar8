@@ -1,0 +1,15 @@
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.csproj.AssemblyReference.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.AssemblyInfoInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.AssemblyInfo.cs
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.csproj.CoreCompileInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/bin/Debug/net6.0/Task62
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/bin/Debug/net6.0/Task62.deps.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/bin/Debug/net6.0/Task62.runtimeconfig.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/bin/Debug/net6.0/Task62.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/bin/Debug/net6.0/Task62.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/refint/Task62.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/Task62.genruntimeconfig.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar8/Task62/obj/Debug/net6.0/ref/Task62.dll
